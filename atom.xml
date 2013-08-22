@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Penguin Powered Ninjitsu]]></title>
   <link href="http://th3flyboy.github.io/atom.xml" rel="self"/>
   <link href="http://th3flyboy.github.io/"/>
-  <updated>2013-08-21T21:16:13-04:00</updated>
+  <updated>2013-08-21T21:42:59-04:00</updated>
   <id>http://th3flyboy.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Peter C.]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
