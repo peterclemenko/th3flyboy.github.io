@@ -7,7 +7,7 @@ title: Penguin Powered Ninjitsu
 subtitle: Because security through obscurity doesn't work.
 author: Peter C.
 simple_search: http://google.com/search
-description: A blog on Linux, open source, digital forensics, information security, software development, and gaming.
+description: "A blog on Linux, open source, digital forensics, information security, software development, and gaming."
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
